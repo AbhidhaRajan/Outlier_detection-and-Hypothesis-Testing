@@ -31,7 +31,7 @@ Data points with a Z-score greater than 3 or less than -3 are often considered o
 Implementing these methods requires careful consideration of the data's distribution and the context of your analysis,
 as the definition of an outlier can vary significantly across different datasets and research questions.
 
-#Hypothesis Testing:
+# Hypothesis Testing:
 Hypothesis testing is a fundamental method in statistics used to decide whether there is enough evidence in a sample of data 
 to support a particular belief or hypothesis about a population. There are several methods of hypothesis testing, each suited to different types of data,
 distributions, and research questions.
